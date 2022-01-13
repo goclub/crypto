@@ -2,6 +2,8 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/goclub/base64 v0.0.0-20210714165013-2e9be8514387 h1:hikbha8GRlNWQZqFi0pLd7CGeKGCBK5E2i92BIx3HzM=
 github.com/goclub/base64 v0.0.0-20210714165013-2e9be8514387/go.mod h1:aFTP5CqrxrMvXQ542Jhj24BprjlKE01QMt78SE8MWZY=
+github.com/goclub/base64 v0.0.0-20220113153836-c1b53893149a h1:x5nhAKdYwtSCp7MjGsLsmmKb0oqcDf1xdxLjwlbsg1E=
+github.com/goclub/base64 v0.0.0-20220113153836-c1b53893149a/go.mod h1:aFTP5CqrxrMvXQ542Jhj24BprjlKE01QMt78SE8MWZY=
 github.com/goclub/error v0.0.0-20211111072004-f2e296c6bba4 h1:j7SM03MuDjWB0aUjMhSZnsWzjMKOUv4+TtmDDtGVVo4=
 github.com/goclub/error v0.0.0-20211111072004-f2e296c6bba4/go.mod h1:2ombCAL3uNuhVNevp56iOpelgiQIyxlYkz7t6nWEC18=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
